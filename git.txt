@@ -1,0 +1,2 @@
+git is a version control software designed to store records of the code. 
+it enables us to check who made that file who altered it and when and how, etc
